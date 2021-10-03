@@ -1,5 +1,5 @@
 ﻿open System
-open ShootingGallery
+open SpaceShip
 
 [<EntryPoint; STAThread>]
 let main argv =
